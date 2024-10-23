@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6718a31be85bba8524f465ba"
+  },
+  "name": "Americano",
+  "price": 10,
+  "description": "An americano is simply just hot water and espresso.",
+  "imageUrl": "https://www.luxcafeclub.com/cdn/shop/articles/Americano_Coffee_1200x1200.png?v=1713411608"
+},
+{
+  "_id": {
+    "$oid": "6718a7dae85bba8524f465bc"
+  },
+  "name": "Cafe Latte",
+  "price": 8.9,
+  "description": "A latte or caffe latte is a coffee that is made up of one or two latte... I think...",
+  "imageUrl": "https://www.thefoundrybakery.com/cdn/shop/products/latte-art-pour_1024x1024.jpg?v=1588113746"
+},
+{
+  "_id": {
+    "$oid": "6718a8b4e85bba8524f465bd"
+  },
+  "name": "Spanish Latte",
+  "price": 5.99,
+  "description": "The Cafe con Leche is basically espresso-based coffee with milk. sweetener, and something else.",
+  "imageUrl": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/halo-cafe/products/hot-spanish-latte-1-%D9%85%D8%A7%D9%83%D9%8A%D8%A7%D8%AA%D9%887416.jpg"
+}]
